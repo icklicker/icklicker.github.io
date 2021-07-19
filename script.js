@@ -1,5 +1,5 @@
 alert("Правила: копите  монеты и прокачиваетесь, в минус можно уходить до -100, далее вы проиграете!")
-var score = 0;
+var score = 100;
 updating = 1;
 function clickBtn() {
   score = score + updating;
