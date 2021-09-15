@@ -1,6 +1,6 @@
 alert("Вы зашли в админ панель!")
-var score = 100000000;
-updating = 100000;
+var score = 1000000000;
+updating = 1000000;
 function clickBtn() {
   score = score + updating;
   document.getElementsByTagName("h1")[0].firstChild.data = score + "$";
