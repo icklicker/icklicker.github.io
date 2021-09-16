@@ -24,7 +24,7 @@ $(() => {
     var shopAbilities = [
         {
             name: 'Волшебный квадрат',
-            desctiprion: 'Купив данный квадрат, вы сможете получть деньги за клики!',
+            desctiprion: 'Купив данный квадрат, вы сможете получть монеты за клики!',
             price: 50,
             _status: 0,
             event: function() {
@@ -69,7 +69,7 @@ $(() => {
     }
 
     var casino = {
-        max: 5,
+        max: 1000000,
         setted: -1
     }
 
@@ -133,7 +133,7 @@ $(() => {
 
             $(Aname[i]).text(shopAbilities[i].name)
             $(Adesc[i]).text(shopAbilities[i].desctiprion)
-            $(Aprice[i]).text(shopAbilities[i].price + 'циферок')
+            $(Aprice[i]).text(shopAbilities[i].price + 'Циферок')
             $(Astatus[i]).text(shopAbilities[i]._status === 0 ? 'Продается' : 'Куплен')
 
             if (shopAbilities[i]._status === 0) $(Abuy).attr('value', i)
@@ -145,8 +145,8 @@ $(() => {
 
             $(SHUname[i]).text(shopClicksUpgrades[i].name)
             $(SHUdesc[i]).text(shopClicksUpgrades[i].desctiprion)
-            $(SHUprice[i]).text(shopClicksUpgrades[i].price.toFixed(2) + 'циферок')
-            $(SHUstatus[i]).text(shopClicksUpgrades[i].lvl + 'уровень')
+            $(SHUprice[i]).text(shopClicksUpgrades[i].price.toFixed(2) + 'Монеты')
+            $(SHUstatus[i]).text(shopClicksUpgrades[i].lvl + 'Уровень')
             $(SHUbuy1[i]).attr('num', i)
             $(SHUbuy10[i]).attr('num', i)
             $(SHUbuy100[i]).attr('num', i)
@@ -169,7 +169,7 @@ $(() => {
     $('body').on('click', 'p.abilBuy', function() {
 
         var value = $(this).attr('value')
-        if (shopAbilities[value].price > numbers) alert('Недостаточно циферок!')
+        if (shopAbilities[value].price > numbers) alert('Недостаточно монет!')
         else {
 
             shopAbilities[value]._status = 1; numbers -= shopAbilities[value].price
