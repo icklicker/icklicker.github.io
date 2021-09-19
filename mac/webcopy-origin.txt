@@ -1,0 +1,176 @@
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\index.htm
+Content Type: text/html
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/css/style.css
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\css\style.css
+Content Type: text/css
+
+Uri: https://twitter.com/share
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\share.html
+Content Type: text/html
+
+Uri: https://code.jquery.com/jquery-1.7.1.min.js
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\jquery-1.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/js/jquery-ui-1.8.17.custom.min.js
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\js\jquery-ui-1.8.17.custom.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/js/modernizr.js
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\js\modernizr.js
+Content Type: application/x-javascript
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/js/fix-and-clock.js
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\js\fix-and-clock.js
+Content Type: application/x-javascript
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/apple-logo-login.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\apple-logo-login.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/Lion.gif
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\Lion.gif
+Content Type: image/gif
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/FinderIcon.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\FinderIcon.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/MacOSX.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\MacOSX.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/Alert.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\Alert.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/alessio-atzeni-logo.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\alessio-atzeni-logo.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/folder.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\folder.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/launchPad.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\launchPad.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/expose.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\expose.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/appstore.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\appstore.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/Safari.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\Safari.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/ichat.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\ichat.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/facetime.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\facetime.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/address.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\address.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/preview.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\preview.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/iTunes.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\iTunes.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/preferences.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\preferences.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/trash.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\trash.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/css/animation-webkit.css
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\css\animation-webkit.css
+Content Type: text/css
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/css/animation-moz.css
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\css\animation-moz.css
+Content Type: text/css
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/css/dock.css
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\css\dock.css
+Content Type: text/css
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/css/window.css
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\css\window.css
+Content Type: text/css
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/apple-logo-boot.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\apple-logo-boot.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/spinnerSmall.gif
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\spinnerSmall.gif
+Content Type: image/gif
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/gradient.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\gradient.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/background.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\background.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/wireless-icon-login.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\wireless-icon-login.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/submit.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\submit.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/loadinfologin.gif
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\loadinfologin.gif
+Content Type: image/gif
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/Andromeda-Galaxy.jpg
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\Andromeda-Galaxy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/wireless-icon.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\wireless-icon.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/apple-logo.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\apple-logo.png
+Content Type: image/png
+
+Uri: https://www.mozilla.org/en-US/firefox/
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\en-US\firefox\index.htm
+Content Type: text/html
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/dock-bg.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\dock-bg.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/dock-bg-left.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\dock-bg-left.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/dock-bg-right.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\dock-bg-right.png
+Content Type: image/png
+
+Uri: https://www.alessioatzeni.com/mac-osx-lion-css3/res/img/buttons-hover.png
+File Name: C:\Downloaded Web Sites\www.alessioatzeni.com\mac-osx-lion-css3\res\img\buttons-hover.png
+Content Type: image/png
+
