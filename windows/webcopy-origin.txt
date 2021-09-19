@@ -1,0 +1,192 @@
+Uri: https://pranx.com/windows-xp-simulator/
+File Name: C:\Downloaded Web Sites\pranx.com\windows-xp-simulator\index.htm
+Content Type: text/html
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css
+File Name: C:\Downloaded Web Sites\pranx.com\ui\1.12.1\themes\base\jquery-ui.css
+Content Type: text/css
+
+Uri: https://pranx.com/style.css?v=21
+File Name: C:\Downloaded Web Sites\pranx.com\style.css
+Content Type: text/css
+
+Uri: https://a.pub.network/core/pubfig/cls.css
+File Name: C:\Downloaded Web Sites\pranx.com\core\pubfig\cls.css
+Content Type: text/css
+
+Uri: https://pestgame.com/
+File Name: C:\Downloaded Web Sites\pranx.com\index.htm
+Content Type: text/html
+
+Uri: https://code.jquery.com/jquery-1.12.4.js
+File Name: C:\Downloaded Web Sites\pranx.com\jquery-1.12.4.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/jquery-ui.js
+File Name: C:\Downloaded Web Sites\pranx.com\ui\1.12.1\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://pranx.com/scripts.js?v=1
+File Name: C:\Downloaded Web Sites\pranx.com\scripts.js
+Content Type: application/javascript
+
+Uri: https://a.pub.network/pranx-com/pubfig.min.js
+File Name: C:\Downloaded Web Sites\pranx.com\pranx-com\pubfig.min.js
+Content Type: application/javascript
+
+Uri: https://pranx.com/images/background.jpg
+File Name: C:\Downloaded Web Sites\pranx.com\images\background.jpg
+Content Type: image/jpeg
+
+Uri: https://pranx.com/images/toolbar1.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\toolbar1.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/toolbar2.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\toolbar2.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/toolbar3.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\toolbar3.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/toolbar-sep.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\toolbar-sep.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/toolbar4.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\toolbar4.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/toolbar5.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\toolbar5.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/toolbar6.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\toolbar6.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/pc-icon.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\pc-icon.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/greenGo.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\greenGo.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/dropup-ico.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\dropup-ico.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ico/wait.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ico\wait.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ico/open.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ico\open.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ico/pc.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ico\pc.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ico/phone.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ico\phone.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ico/screen.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ico\screen.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ico/close.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ico\close.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ico/prank.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ico\prank.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/windowslogo.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\windowslogo.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie1.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie1.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie2.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie2.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie3.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie3.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie4.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie4.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie5.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie5.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie-sep.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie-sep.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie6.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie6.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie7.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie7.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie8.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie8.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie9.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie9.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie10.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie10.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie11.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie11.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie12.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie12.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ie-addressbar-ico.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ie-addressbar-ico.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/ieLinks.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\ieLinks.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/iedone.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\iedone.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/iefooter.png
+File Name: C:\Downloaded Web Sites\pranx.com\images\iefooter.png
+Content Type: image/png
+
+Uri: https://pranx.com/images/default_icon.jpg
+File Name: C:\Downloaded Web Sites\pranx.com\images\default_icon.jpg
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-199423898-1
+File Name: C:\Downloaded Web Sites\pranx.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.microsoft.com/ru-ru/
+File Name: C:\Downloaded Web Sites\pranx.com\ru-ru\index.htm
+Content Type: text/html
+
