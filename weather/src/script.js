@@ -10,7 +10,7 @@ setInterval(() => {
     local_date.textContent = `Local time: ${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}`
 }, 1000)
 
-let city = 'London'
+let city = 'Krasnodar'
 
 document.addEventListener('keydown', (e) => {
     if(e.key === 'Enter') {
