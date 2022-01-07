@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+	<line display="inline" fill="none" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" x1="10" y1="8.3" x2="10" y2="17.8"/>
+	<line display="inline" fill="none" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" x1="10" y1="2.9" x2="10" y2="5.1"/>
+	<line display="inline" fill="none" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" x1="16.3" y1="12.7" x2="16.3" y2="17.8"/>
+	<line display="inline" fill="none" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" x1="16.3" y1="2.9" x2="16.3" y2="9.5"/>
+	<line display="inline" fill="none" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" x1="3.7" y1="14.4" x2="3.7" y2="17.8"/>
+	<line display="inline" fill="none" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" x1="3.7" y1="2.9" x2="3.7" y2="10.9"/>
+	<circle display="inline" fill="none" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" cx="3.7" cy="12.7" r="1.6"/>
+	<circle display="inline" fill="none" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" cx="16.3" cy="11.1" r="1.6"/>
+	<circle display="inline" fill="none" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" cx="10" cy="6.7" r="1.6"/>
+</svg>

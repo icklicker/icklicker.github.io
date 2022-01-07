@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 30" enable-background="new 0 0 24 30" xml:space="preserve">
+<g fill="#adb8c1">
+	<path d="M23,1v20H1V1H23 M24,0H0v22h24V0L24,0z"/>
+	<rect x="7" y="21.728" transform="matrix(0.9362 0.3514 -0.3514 0.9362 9.616 -0.9773)" width="1" height="8.544"/>
+	<rect x="12.228" y="25.5" transform="matrix(0.3511 0.9363 -0.9363 0.3511 35.051 1.4214)" width="8.544" height="0.999"/>
+	<rect x="7.263" y="25.187" width="9.4" height="1"/>
+	<polygon points="5.23,7.447 3.805,6.021 4.512,5.314 5.23,6.033 7.068,4.196 7.775,4.903 "/>
+	<rect x="9.5" y="5.844" width="10.5" height="1"/>
+	<polygon points="5.23,12.109 3.805,10.683 4.512,9.976 5.23,10.695 7.068,8.857 7.775,9.564 "/>
+	<rect x="9.5" y="10.505" width="10.5" height="1"/>
+	<polygon points="5.23,16.771 3.805,15.345 4.512,14.638 5.23,15.356 7.068,13.519 7.775,14.226 "/>
+	<rect x="9.5" y="15.167" width="10.5" height="1"/>
+</g>
+</svg>

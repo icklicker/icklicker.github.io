@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52px" height="52px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" style="margin-right:-2px;display:block;background-repeat-y:initial;background-repeat-x:initial;background-color:rgba(255, 255, 255, 0);" >
+    <style type="text/css">
+        <![CDATA[
+            @keyframes loader-stream-mts-ru {
+            0% { opacity: 1 }
+            100% { opacity: 0 }
+            }
+            .spinner-element {
+            animation: loader-stream-mts-ru linear 1s infinite;
+            fill: #6a717d;
+            }
+            .spinner-element-1 {
+            animation-delay: -0.9166666666666666s;
+            }.spinner-element-2 {
+            animation-delay: -0.8333333333333334s;
+            }.spinner-element-3 {
+            animation-delay: -0.75s;
+            }.spinner-element-4 {
+            animation-delay: -0.6666666666666666s;
+            }.spinner-element-5 {
+            animation-delay: -0.5833333333333334s;
+            }.spinner-element-6 {
+            animation-delay: -0.5s;
+            }.spinner-element-7 {
+            animation-delay: -0.4166666666666667s;
+            }.spinner-element-8 {
+            animation-delay: -0.3333333333333333s;
+            }.spinner-element-9 {
+            animation-delay: -0.25s;
+            }.spinner-element-10 {
+            animation-delay: -0.16666666666666666s;
+            }.spinner-element-11 {
+            animation-delay: -0.08333333333333333s;
+            }.spinner-element-12 {
+            animation-delay: 0s;
+            }
+        ]]>
+    </style>
+    <g transform="rotate(0 50 50)" ><rect class="spinner-element spinner-element-1" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(30 50 50)" ><rect class="spinner-element spinner-element-2" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(60 50 50)" ><rect class="spinner-element spinner-element-3" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(90 50 50)" ><rect class="spinner-element spinner-element-4" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(120 50 50)" ><rect class="spinner-element spinner-element-5" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(150 50 50)" ><rect class="spinner-element spinner-element-6" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(180 50 50)" ><rect class="spinner-element spinner-element-7" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(210 50 50)" ><rect class="spinner-element spinner-element-8" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(240 50 50)" ><rect class="spinner-element spinner-element-9" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(270 50 50)" ><rect class="spinner-element spinner-element-10" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(300 50 50)" ><rect class="spinner-element spinner-element-11" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+    <g transform="rotate(330 50 50)" ><rect class="spinner-element spinner-element-12" x="46" y="1" rx="3.5" ry="3.5" width="7" height="28" ></rect></g>
+</svg>

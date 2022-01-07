@@ -1,0 +1,26 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 30" enable-background="new 0 0 24 30" xml:space="preserve">
+<g fill="#adb8c1">
+	<path d="M18.752,1L23,5.248V29H1V1H18.752 M19.166,0H0v30h24V4.833L19.166,0L19.166,0z"/>
+	<polygon points="18.166,5.833 24,5.833 18.166,0 "/>
+</g>
+<g fill="#adb8c1">
+	<path d="M7.347,18v4h6v-4H7.347z M12.348,21h-4v-2h4V21z"/>
+	<path d="M13.348,22c0,1.658-1.344,3-3,3s-3-1.342-3-3C7.347,21.055,13.348,21.055,13.348,22z"/>
+	<rect x="11.347" y="5" width="2" height="2"/>
+	<rect x="11.347" y="1" width="2" height="2"/>
+	<rect x="11.347" y="9" width="2" height="2"/>
+	<rect x="11.347" y="13" width="2" height="2"/>
+	<rect x="9.347" y="1" width="2" height="2"/>
+	<rect x="9.347" y="3" width="2" height="2"/>
+	<rect x="9.347" y="5" width="2" height="2"/>
+	<rect x="9.347" y="7" width="2" height="2"/>
+	<rect x="9.347" y="9" width="2" height="2"/>
+	<rect x="9.347" y="11" width="2" height="2"/>
+	<rect x="9.347" y="13" width="2" height="2"/>
+	<rect x="9.347" y="15" width="2" height="2"/>
+	<rect x="7.347" y="3" width="2" height="2"/>
+	<rect x="7.347" y="7" width="2" height="2"/>
+	<rect x="7.347" y="11" width="2" height="2"/>
+	<rect x="7.347" y="15" width="2" height="2"/>
+</g>
+</svg>
