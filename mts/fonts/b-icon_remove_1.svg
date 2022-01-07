@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+	<path fill-rule="evenodd" stroke="#adb8c1" clip-rule="evenodd" fill="none" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M75.8,34.8v49c0,2.8-2.3,5-5,5h-41c-2.8,0-5-2.3-5-5v-49"/>
+	<g>
+		<path fill="none" stroke-width="4" stroke="#adb8c1" stroke-linecap="round" stroke-miterlimit="10" d="M12.3,26.7 c23.9-12.2,52.1-12.2,76,0"/>
+	</g>
+	<path fill-rule="evenodd" stroke="#adb8c1" clip-rule="evenodd" fill="none" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M39.5,17.8C39.5,11.8,44.3,7,50.3,7S61,11.8,61,17.8"/>
+	<line fill-rule="evenodd" stroke="#adb8c1" clip-rule="evenodd" fill="none" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="40.3" y1="87.5" x2="40.3" y2="28.5"/>
+	<line fill-rule="evenodd" stroke="#adb8c1" clip-rule="evenodd" fill="none" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="60.3" y1="87.5" x2="60.3" y2="28.5"/>
+</svg>

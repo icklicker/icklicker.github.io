@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>top_icon/search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="top_icon/search" stroke="#ADB8C1">
+            <g transform="translate(3.000000, 3.000000)">
+                <path d="M15,7.49940024 C15,11.6437425 11.642543,15.0011995 7.49940024,15.0011995 C3.35745702,15.0011995 0,11.6437425 0,7.49940024 C0,3.35745702 3.35745702,0 7.49940024,0 C11.642543,0 15,3.35745702 15,7.49940024 Z" id="Stroke-10"></path>
+                <path d="M16.5709768,12.1435537 L16.5709768,21.4075801" id="Stroke-12" transform="translate(16.109438, 16.949734) rotate(-45.000000) translate(-16.109438, -16.949734) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
