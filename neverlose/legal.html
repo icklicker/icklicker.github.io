@@ -1,0 +1,576 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="enot" content="6191637854977h2nDG27FI4fv3xoCRmcHvwj_6Ip01Hw7">
+	<meta name="interkassa-verification" content="8fde291d330f91a1deac69594842de60">
+	<link href="static/assets/css/app.css?v=32" rel="stylesheet">
+	<meta name="google-site-verification" content="8kDVb1U83X9tvIBFSqOfemMOGwRcWc-H1BOBZE_5gCI">
+	<meta name="verification" content="28d5f7d28e31fd5be4e94628a4f47a">
+	<meta name="yandex-verification" content="f5eb71addea0ad12">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>NeverLose.cc - Условия использования</title>
+
+	<link rel="stylesheet" href="releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<meta name="msapplication-TileColor" content="#0095B9">
+	<meta name="theme-color" content="#0095B9">
+<link rel="apple-touch-icon" sizes="180x180" href="static/assets/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="static/assets/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="static/assets/favicon/favicon-16x16.png">
+<link rel="manifest" href="static/assets/favicon/site.webmanifest">
+<link rel="mask-icon" href="static/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff"></head>
+<body>
+	<div>
+		<!-- div id="ball"></div -->
+    <div style="display: none;" id="xd-csrf--" x-csrf=""></div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function(){
+        let cse = document.getElementById("xd-csrf--");
+        let cst = cse.getAttribute("x-csrf");
+        if (!cst) { return; }
+
+        let forms = document.getElementsByTagName("form");
+        for(var i = 0; i < forms.length; i++) {
+          let input = document.createElement("input");
+          input.type = "hidden";
+          input.name = "csrf";
+          input.value = cst;
+          forms[i].appendChild(input);
+        }
+      });
+    </script>
+
+<style>
+    .check-new{
+        align-self: flex-start;
+        padding-left: 60px !important;
+    }
+</style>
+<div class="popup_fade"></div>
+
+<script>
+        var auth_captcha;
+        var reg_captcha;
+        var forgot_captcha;
+        var captchaCallBack = function() {
+            auth_captcha = grecaptcha.render('auth-captcha', {
+                'sitekey' : '6LfltkAUAAAAAIYhSuMgm33hCMmhtkuj4iLOzaxn',
+                'theme' : 'light'
+            });
+
+            reg_captcha = grecaptcha.render('reg-captcha', {
+                'sitekey' : '6LfltkAUAAAAAIYhSuMgm33hCMmhtkuj4iLOzaxn',
+                'theme' : 'light'
+            });
+            
+            forgot_captcha = grecaptcha.render('forgot-captcha', {
+                'sitekey' : '6LfltkAUAAAAAIYhSuMgm33hCMmhtkuj4iLOzaxn',
+                'theme' : 'light'
+            });
+        };
+</script>
+
+<div class="popups" id="reg">
+    <div class="block widthPopUp">
+        <div class="close">
+            <a href="#"><i class="fas fa-times-circle"></i></a>
+        </div>
+        <form method="post" action="/doregister" class="userform">
+            <div class="container flex-cont">
+                <div class="logo">
+                    <a href="index.htm">
+                        <img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo">
+                    </a>
+                </div>
+                <div class="status"></div>
+                <div class="input_log">
+                    <input type="text" placeholder="Логин" name="login" required="">
+                </div>
+                <div class="input_pass">
+                    <input type="password" placeholder="Пароль" name="password" required="">
+                </div>
+                <div class="input_email">
+                    <input type="email" placeholder="Электронная почта" name="email" required="">
+                </div>
+                <div class="capcha"><div id="auth-captcha"></div></div>
+                
+                <div class="check check-new">
+                    <input type="checkbox" name="yes" id="yesCheck" required="">
+                    <label for="yesCheck">Я согласен с <a href="tos.html">условиями использования</a>
+                        
+                    </label>
+                </div>
+                <div class="check check-new">
+                    <input type="checkbox" name="yes" id="yesCheck2" required="">
+                    <label for="yesCheck2">Я согласен с  <a href="legal.html">договором оферты</a>
+                    </label>
+                </div>
+                <div class="check check-new">
+                    <input type="checkbox" name="yes" id="yesCheck3" required="">
+                    <label for="yesCheck3">Я согласен с <a href="privacy.html">политикой конфиденциальности</a>
+                    </label>
+                </div>
+                <input type="submit" value="Регистрация" class="btn">
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="popups" id="log">
+    <div class="block widthPopUp">
+        <div class="close">
+            <a href="#"><i class="fas fa-times-circle"></i></a>
+        </div>
+        <form method="post" action="/login" class="userform">
+            <div class="container flex-cont">
+                    <div class="logo">
+                        <a href="index.htm">
+                            <img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo">
+                        </a>
+                    </div>
+                    <div class="status"></div>
+                    <div class="input_log">
+                        <input type="text" placeholder="Логин" name="login" required="">
+                    </div>
+                    <div class="input_pass">
+                        <input type="password" placeholder="Пароль" name="password" required="">
+                    </div>
+                    <div class="capcha"><div id="reg-captcha"></div></div>
+                    <input type="submit" value="Логин" class="btn">
+                    <div class="some_text">
+                        <a href="#respassw" class="to-popup">Забыли пароль?</a>
+                        <a href="#reg" class="to-popup">Нет учетной записи? <span>Регистрация</span></a>
+                    </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="popups" id="2facode">
+    <div class="block widthPopUp">
+        <div class="close">
+            <a href="#"><i class="fas fa-times-circle"></i></a>
+        </div>
+        <form method="post" action="/2falogin" class="userform">
+            <div class="container flex-cont">
+                    <div class="logo">
+                        <a href="index.htm">
+                            <img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo">
+                        </a>
+                    </div>
+                    <div class="status"></div>
+					
+					<div class="twofa_text">
+                      Please enter the verification code generated by the app on your phone.
+                    </div>
+					
+                    <div class="input_log" style="margin-bottom:5px;">
+                        <input type="text" placeholder="Code from authenticator" name="code" required="" maxlength="6" minlength="6">
+                    </div>
+                    <input type="submit" value="Логин" class="btn">
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="popups" id="respassw">
+    <div class="block widthPopUp">
+        <div class="close">
+            <a href="#"><i class="fas fa-times-circle"></i></a>
+        </div>
+        <form method="post" action="/resetpassw" class="userform">
+            <div class="container flex-cont">
+                    <div class="logo">
+                        <a href="index.htm">
+                            <img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo">
+                        </a>
+                    </div>
+                    <div class="status"></div>
+                    <div class="input_email">
+                        <input type="email" placeholder="Электронная почта" name="email" required="">
+                    </div>
+                    <div class="capcha"><div id="forgot-captcha"></div></div>
+                    <input type="submit" value="Отправить" class="btn">
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+		<section class="menu">
+			<div class="logo">
+				<div class="img">
+					<a href="index.htm"><img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo"></a>
+				</div>
+			</div>
+			<div class="links">
+				<a href="index.htm">Главная</a>
+				<a href="help.html">Справка</a>
+			</div>
+			<div class="other">
+				
+				<div class="custom-select lang">
+					<select>
+						<option value="0">Ru</option>
+						<option value="0">Ru</option>
+						<option value="1">En</option>
+					</select>
+				</div>
+				<div class="reg">
+					<a href="#reg" class="to-popup"> Регистрация</a>
+				</div>
+				<div class="login">
+					<a href="#log" class="to-popup">Вход</a>
+				</div>
+			</div>
+		</section>
+<div>
+    <section class="tos">
+        <div class="wrapper">
+            <h1>Условия использования</h1>
+            <div class="container">
+                <div class="text">
+                <div class="card-body">
+                <p style="font-weight: 600; padding-left:0;">Последнее обновление 27 ноября 2021
+                    года.</p>
+
+                <ol>
+                    <li style="margin-bottom: 2rem;">
+                        <h2>Общие положения</h2>
+                        <ol>
+                            <li>
+                                ИП Николаев Дмитрий Эдуардович, далее «Продавец», публикует Публичную
+                                оферту о реализации Услуг, размещенных на официальном сайте Продавца https://neverlose.cc
+                            </li>
+                            <li>
+                                В соответствии со статьей 437 Гражданского Кодекса Российской Федерации (ГК РФ) данный
+                                документ
+                                является публичной офертой, и в случае принятия изложенных ниже условий физическое лицо,
+                                производящее акцепт этой оферты, осуществляет оплату Услуги Продавца в соответствии с
+                                условиями
+                                настоящего Договора. В соответствии с пунктом 3 статьи 438 ГК РФ, оплата Услуги
+                                Покупателем является
+                                акцептом оферты, что считается равносильным заключению Договора на условиях, изложенных
+                                в оферте.
+                            </li>
+                            <li>
+                                На основании вышеизложенного внимательно ознакомьтесь с текстом публичной оферты, и,
+                                если вы не
+                                согласны с каким-либо пунктом оферты, Вам предлагается отказаться от использования
+                                Услуг,
+                                предоставляемых Продавцом.
+                            </li>
+                            <li>
+                                В настоящей оферте, если контекст не требует иного,
+                                нижеприведенные
+                                термины имеют следующие значения:
+                                <ul>
+                                    <li>
+                                        «Оферта» – публичное предложение Продавца, адресованное любому физическому лицу
+                                        , заключить с ним договор на существующих условиях, содержащихся в
+                                        Договоре, включая все его приложения.
+                                    </li>
+                                    <li>
+                                        «Покупатель» – физическое лицо, заключившее с Продавцом Договор на условиях,
+                                        содержащихся в Договоре.
+                                    </li>
+                                    <li>
+                                        «Акцепт» – полное и безоговорочное принятие Покупателем условий Договора.
+                                    </li>
+                                    <li>
+                                        «Услуга» – перечень наименований ассортимента, представленный на официальном
+                                        интернет-сайте.
+                                    </li>
+                                    <li>
+                                        «Заказ» – отдельные позиции из ассортиментного перечня Услуг, указанные
+                                        Покупателем при оформлении заявки на интернет-сайте.
+                                    </li>
+                                </ul>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li style="margin-bottom: 2rem;">
+                        <h2>Предмет договора</h2>
+                        <ol>
+                            <li>
+                                Продавец реализует Услуги в соответствии с действующим прейскурантом, опубликованным на
+                                интернет-сайте Продавца в интерактивной форме, а Покупатель
+                                производит оплату и принимает Услугу в соответствии с условиями настоящего Договора.
+                            </li>
+                            <li>
+                                Настоящий Договор и приложения к нему являются официальными документами Продавца и
+                                неотъемлемой частью оферты.
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li style="margin-bottom: 2rem;">
+                        <h2>Оформление заказа</h2>
+                        <ol>
+                            <li>
+                                Заказ Услуги осуществляется Покупателем через Интернет-сайт «https://neverlose.cc»
+                            </li>
+                            <li>
+                                При регистрации на интернет-сайте Продавца Покупатель обязуется предоставить следующую
+                                регистрационную информацию о себе: никнейм, адрес электронной почты.
+                            </li>
+                            <li>
+                                Оплата Покупателем самостоятельно оформленного на интернет-сайте Заказа означает
+                                согласие Покупателя с условиями настоящего Договора. День оплаты Заказа является датой
+                                заключения Договора между Продавцом и Покупателем.
+                            </li>
+                            <li>Все информационные материалы, представленные на сайте «https://neverlose.cc», носят
+                                справочный характер и не могут в полной мере передавать достоверную информацию об
+                                определенных свойствах и характеристиках Услуги. В случае возникновения у Покупателя
+                                вопросов, касающихся Услуги, перед оформлением Заказа ему необходимо обратиться за
+                                консультацией к Продавцу.
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li style="margin-bottom: 2rem;">
+                        <h2>Сроки исполнения Заказа</h2>
+                        <ol>
+                            <li>
+                                Срок исполнения Заказа - 1 рабочий день. Срок исполнения Заказа в исключительных случаях может быть оговорен с
+                                Покупателем индивидуально в зависимости от типа предоставляемых Услуг. В случае
+                                невозможности оказания Услуги Продавцом, в том числе по причинам, не зависящим от
+                                последнего, Продавец вправе аннулировать указанную Услугу из Заказа Покупателя. Продавец
+                                обязуется уведомить Покупателя об изменении его Заказа через Электронную почту.
+                            </li>
+                            <li>
+                                Заказ считается выполненным в момент принятия услуги Покупателем.
+                            </li>
+                            <li>
+                                В случае предоставления Покупателем недостоверной информации его контактных данных
+                                Продавец за ненадлежащее исполнение Заказа ответственности не несет.
+                            </li>
+                            <li>
+                                В случае ненадлежащего исполнения Заказа по вине Продавца повторная реализация Заказа
+                                осуществляется бесплатно.
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li style="margin-bottom: 2rem;">
+                        <h2>Оплата Заказа</h2>
+                        <ol>
+                            <li>
+                                Оплата исполненного Заказа осуществляется путем передачи Покупателем денежных средств с
+                                помощью электронных платежных средств на счет Продавца. Подтверждением оплаты
+                                исполненного Заказа является чек.
+                            </li>
+                            <li>
+                                Цены на Услуги, указанные на интернет-сайте «https://neverlose.cc», могут быть
+                                изменены Продавцом в одностороннем порядке без уведомления Покупателя. 
+                            </li>
+                            <li>
+                                Денежные средства принимаются одним способом: безналичным платежом
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li style="margin-bottom: 2rem;">
+                        <h2>Возврат Заказа</h2>
+                        <ol>
+                            <li>
+                                В соответствии с п. 4. ст. 26.1. Закона РФ № 2300-I «О Защите прав потребителей»
+                                Покупатель вправе отказаться от заказанной Услуги в любое время до момента исполнения
+                                Заказа.
+                            </li>
+                            <li>
+                                В случае предоставления Услуги ненадлежащего качества, Покупатель обязуется обратиться к
+                                Продавцу в максимально короткие сроки.
+                            </li>
+                            <li>
+                                В соответствии со ст. 22 Закона РФ № 2300-I «О Защите прав потребителей» уплаченная
+                                Покупателем сумма за Услугу ненадлежащего качества подлежит возврату Покупателю в
+                                течение 10 календарных дней с момента предъявления соответствующего требования. Возврат
+                                денежных средств осуществляется на электронный счет Покупателя в течение 5-ти рабочих дней.
+                            </li>
+                            <li>
+                                Для возврата денежных средств за Услугу надлежащего качества (см. приложение 1), должны
+                                быть
+                                выполнены следующие условия:
+                                <ul>
+                                    <li>
+                                        отсутствует успешный запуск программного обеспечения, который фиксируется на интернет-сервере
+                                        Продавца при открытии меню программы, запущенной в игре.
+                                    </li>
+                                    <li>
+                                        отсутствует отказ Покупателя от помощи Продавца, при невозможности запуска
+                                        программного обеспечения на компьютере Покупателя, вызванной сторонним
+                                        программным обеспечением, или другой проблемой, которую может устранить
+                                        Продавец, предоставив инструкции по устранению для Покупателя
+                                    </li>
+                                </ul>
+                                В остальных случаях возврат денежных средств за услугу надлежащего качества невозможен.
+                            </li>
+                            <li>
+                                Для возврата денежных средств за услугу не надлежащего качества (см. приложение 1),
+                                составляются накладная или акт о возврате денежных средств, в котором указываются:
+                                <ul>
+                                    <li>полное фирменное наименование Продавца;</li>
+                                    <li>фамилия, имя и отчество;</li>
+                                    <li>наименование Услуги;</li>
+                                    <li>дата оказания Услуги;</li>
+                                    <li>сумма, подлежащая возврату;</li>
+                                    <li>подписи Продавца и Покупателя;</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Возможен возврата денежных средств в случае отсутствия факта начала оказания услуги.
+                            </li>
+                            <li>
+                                Покупатель имеет право предъявить требование Продавцу о возврате стоимости Услуги 
+                                не позднее чем через 7 (семь) дней с даты принятия Заказа.
+                            </li>
+                            <li>
+                                Для возврата денежных средств на банковскую карту Заказчику необходимо заполнить
+                                «Заявление о возврате денежных средств», которое высылается по требованию Компанией на
+                                электронный адрес Заказчика, и отправить его по
+                                электронному адресу refund@neverlose.cc. Возврат денежных средств будет осуществлен на
+                                банковский счет Заказчика, с которого производилась оплата Услуги, в течение 5 (пяти) рабочих дней со
+                                дня получения «Заявление о возврате денежных средств» Компанией.
+                            </li>
+                            <li>
+                                Срок рассмотрения Заявления и возврата денежных средств Заказчику начинает исчисляться с
+                                момента получения Компанией Заявления и рассчитывается в рабочих днях без учета
+                                праздников/выходных дней. Если заявление поступило Компании после 15.00 рабочего дня или
+                                в праздничный/выходной день, моментом получения Компанией Заявления считается следующий
+                                рабочий день.
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li style="margin-bottom: 2rem;">
+                        <h2>Права, обязанности и ответственность</h2>
+                        <ol>
+                            <li>
+                                Продавец не несет ответственности за ненадлежащее использование Услуг Покупателем,
+                                заказанных на интернет-сайте или через Оператора.
+                            </li>
+                            <li>
+                                Данный сайт и вся содержащаяся на нем информация и материалы представлены Вам по
+                                принципу как есть, без каких-либо гарантий.
+                            </li>
+                            <li>
+                                Мы (в т.ч. наши партнеры) не несем ответственность за прямой, косвенный, случайный или
+                                иной
+                                вид ущерба (включая, помимо всего прочего, любого рода баны и блокировки), вследствие
+                                использования или невозможности использования содержания, материалов или функционала
+                                данного сайта.
+                            </li>
+                            <li>
+                                Продавец вправе передавать свои права и обязанности по исполнению Заказов третьим
+                                лицам.
+                            </li>
+                            <li>
+                                Все претензии по ненадлежащему исполнению заказа Покупатель вправе направить на адрес
+                                электронной почты, указанный на интернет-сайте https://neverlose.cc/contact, в разделе
+                                Контакты. Вся поступившая информация обрабатывается в течение 10 (десяти) рабочих дней
+                            </li>
+                            <li>
+                                Покупатель не в праве передавать, продавать или обменивать доступ к Услуге, оказанную
+                                Продавцом
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <h2>
+                    Приложение 1.
+                </h2>
+                <p>
+                    Услуга надлежащего качества — программное обеспечение, предоставленное Покупателю, работающее без
+                    нареканий на компьютере Продавца и других Покупателей, что подтверждается информационной системой
+                    Продавца, в которой зафиксированны успешные использования программного обеспечения всех Покупателей.
+                </p>
+                <p>
+                    ИП Николаев Дмитрий Эдуардович
+                </p>
+                <p>
+                    ИНН 471511911152, ОГРНИП 320470400013369 от 19 февраля 2020 г.
+                </p>
+            </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+        
+        <footer>
+			<div class="container">
+				<div class="logo">
+					<div class="img">
+						<a href="index.htm"><img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo"></a>
+					</div>
+				</div>
+				<div class="footer_links">
+					<div class="useful_links">
+						<!--a href="/forum">Форум</a-->
+						<a href="help.html">Справка</a>
+						<a href="tos.html">Условия использования</a>
+						<a href="legal.html">Оферта</a>
+						<a href="privacy.html">Политика конфиденциальности</a>
+                        <a href="contact.html">Контакты</a>
+						<a href="developers.html">Для разработчиков</a>
+					</div>
+					<div class="separator"></div>
+					<div class="product_links">
+						<a href="product.html?type=csgo">CS:GO</a>
+					</div>
+					<!--img src="/static/assets/img/mps_logo.png" style="width:250px"-->
+					<!--div class="soc">
+						<p>Присоединяйтесь!</p>
+<div class="items">
+    <div class="item"><a target="_blank" href=""><i class="fab fa-discord"></i></a></div>
+    <div class="item"><a target="_blank" href="https://t.me/neverlose_chat"><i class="fab fa-telegram-plane"></i></a></div>
+    <div class="item"><a target="_blank" href="https://vk.com/neverlose"><i class="fab fa-vk"></i></a></div>
+</div>					</div-->
+				</div>
+
+					<img src="static/assets/img/paykeeper.png" style="width:250px">
+				<div class="copy">
+					neverlose.cc © 2020-2021
+				</div>
+			</div>
+		</footer>
+	</div>
+
+</body>
+
+<script type="text/javascript" src="static/assets/js/app.js?v=55"></script>
+<script src='recaptcha/api.js?onload=captchaCallBack&render=explicit'></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+	(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+	m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+	(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+ 
+	ym(64402294, "init", {
+		 clickmap:true,
+		 trackLinks:true,
+		 accurateTrackBounce:true
+	});
+ </script>
+ <noscript><div><img src="watch/64402294/1.gif" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+ <!-- /Yandex.Metrika counter -->
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+ <script async="" src="gtag/js.js?id=UA-115062869-2">
+ </script>
+ <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+ 
+   gtag('config', 'UA-115062869-3');
+ </script>
+</html>

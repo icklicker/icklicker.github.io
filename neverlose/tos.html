@@ -1,0 +1,366 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="enot" content="6191637854977h2nDG27FI4fv3xoCRmcHvwj_6Ip01Hw7">
+	<meta name="interkassa-verification" content="8fde291d330f91a1deac69594842de60">
+	<link href="static/assets/css/app.css?v=32" rel="stylesheet">
+	<meta name="google-site-verification" content="8kDVb1U83X9tvIBFSqOfemMOGwRcWc-H1BOBZE_5gCI">
+	<meta name="verification" content="28d5f7d28e31fd5be4e94628a4f47a">
+	<meta name="yandex-verification" content="f5eb71addea0ad12">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>NeverLose.cc - Условия использования</title>
+
+	<link rel="stylesheet" href="releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<meta name="msapplication-TileColor" content="#0095B9">
+	<meta name="theme-color" content="#0095B9">
+<link rel="apple-touch-icon" sizes="180x180" href="static/assets/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="static/assets/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="static/assets/favicon/favicon-16x16.png">
+<link rel="manifest" href="static/assets/favicon/site.webmanifest">
+<link rel="mask-icon" href="static/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff"></head>
+<body>
+	<div>
+		<!-- div id="ball"></div -->
+    <div style="display: none;" id="xd-csrf--" x-csrf=""></div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function(){
+        let cse = document.getElementById("xd-csrf--");
+        let cst = cse.getAttribute("x-csrf");
+        if (!cst) { return; }
+
+        let forms = document.getElementsByTagName("form");
+        for(var i = 0; i < forms.length; i++) {
+          let input = document.createElement("input");
+          input.type = "hidden";
+          input.name = "csrf";
+          input.value = cst;
+          forms[i].appendChild(input);
+        }
+      });
+    </script>
+
+<style>
+    .check-new{
+        align-self: flex-start;
+        padding-left: 60px !important;
+    }
+</style>
+<div class="popup_fade"></div>
+
+<script>
+        var auth_captcha;
+        var reg_captcha;
+        var forgot_captcha;
+        var captchaCallBack = function() {
+            auth_captcha = grecaptcha.render('auth-captcha', {
+                'sitekey' : '6LfltkAUAAAAAIYhSuMgm33hCMmhtkuj4iLOzaxn',
+                'theme' : 'light'
+            });
+
+            reg_captcha = grecaptcha.render('reg-captcha', {
+                'sitekey' : '6LfltkAUAAAAAIYhSuMgm33hCMmhtkuj4iLOzaxn',
+                'theme' : 'light'
+            });
+            
+            forgot_captcha = grecaptcha.render('forgot-captcha', {
+                'sitekey' : '6LfltkAUAAAAAIYhSuMgm33hCMmhtkuj4iLOzaxn',
+                'theme' : 'light'
+            });
+        };
+</script>
+
+<div class="popups" id="reg">
+    <div class="block widthPopUp">
+        <div class="close">
+            <a href="#"><i class="fas fa-times-circle"></i></a>
+        </div>
+        <form method="post" action="/doregister" class="userform">
+            <div class="container flex-cont">
+                <div class="logo">
+                    <a href="index.htm">
+                        <img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo">
+                    </a>
+                </div>
+                <div class="status"></div>
+                <div class="input_log">
+                    <input type="text" placeholder="Логин" name="login" required="">
+                </div>
+                <div class="input_pass">
+                    <input type="password" placeholder="Пароль" name="password" required="">
+                </div>
+                <div class="input_email">
+                    <input type="email" placeholder="Электронная почта" name="email" required="">
+                </div>
+                <div class="capcha"><div id="auth-captcha"></div></div>
+                
+                <div class="check check-new">
+                    <input type="checkbox" name="yes" id="yesCheck" required="">
+                    <label for="yesCheck">Я согласен с <a href="tos.html">условиями использования</a>
+                        
+                    </label>
+                </div>
+                <div class="check check-new">
+                    <input type="checkbox" name="yes" id="yesCheck2" required="">
+                    <label for="yesCheck2">Я согласен с  <a href="legal.html">договором оферты</a>
+                    </label>
+                </div>
+                <div class="check check-new">
+                    <input type="checkbox" name="yes" id="yesCheck3" required="">
+                    <label for="yesCheck3">Я согласен с <a href="privacy.html">политикой конфиденциальности</a>
+                    </label>
+                </div>
+                <input type="submit" value="Регистрация" class="btn">
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="popups" id="log">
+    <div class="block widthPopUp">
+        <div class="close">
+            <a href="#"><i class="fas fa-times-circle"></i></a>
+        </div>
+        <form method="post" action="/login" class="userform">
+            <div class="container flex-cont">
+                    <div class="logo">
+                        <a href="index.htm">
+                            <img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo">
+                        </a>
+                    </div>
+                    <div class="status"></div>
+                    <div class="input_log">
+                        <input type="text" placeholder="Логин" name="login" required="">
+                    </div>
+                    <div class="input_pass">
+                        <input type="password" placeholder="Пароль" name="password" required="">
+                    </div>
+                    <div class="capcha"><div id="reg-captcha"></div></div>
+                    <input type="submit" value="Логин" class="btn">
+                    <div class="some_text">
+                        <a href="#respassw" class="to-popup">Забыли пароль?</a>
+                        <a href="#reg" class="to-popup">Нет учетной записи? <span>Регистрация</span></a>
+                    </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="popups" id="2facode">
+    <div class="block widthPopUp">
+        <div class="close">
+            <a href="#"><i class="fas fa-times-circle"></i></a>
+        </div>
+        <form method="post" action="/2falogin" class="userform">
+            <div class="container flex-cont">
+                    <div class="logo">
+                        <a href="index.htm">
+                            <img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo">
+                        </a>
+                    </div>
+                    <div class="status"></div>
+					
+					<div class="twofa_text">
+                      Please enter the verification code generated by the app on your phone.
+                    </div>
+					
+                    <div class="input_log" style="margin-bottom:5px;">
+                        <input type="text" placeholder="Code from authenticator" name="code" required="" maxlength="6" minlength="6">
+                    </div>
+                    <input type="submit" value="Логин" class="btn">
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="popups" id="respassw">
+    <div class="block widthPopUp">
+        <div class="close">
+            <a href="#"><i class="fas fa-times-circle"></i></a>
+        </div>
+        <form method="post" action="/resetpassw" class="userform">
+            <div class="container flex-cont">
+                    <div class="logo">
+                        <a href="index.htm">
+                            <img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo">
+                        </a>
+                    </div>
+                    <div class="status"></div>
+                    <div class="input_email">
+                        <input type="email" placeholder="Электронная почта" name="email" required="">
+                    </div>
+                    <div class="capcha"><div id="forgot-captcha"></div></div>
+                    <input type="submit" value="Отправить" class="btn">
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+		<section class="menu">
+			<div class="logo">
+				<div class="img">
+					<a href="index.htm"><img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo"></a>
+				</div>
+			</div>
+			<div class="links">
+				<a href="index.htm">Главная</a>
+				<a href="help.html">Справка</a>
+			</div>
+			<div class="other">
+				
+				<div class="custom-select lang">
+					<select>
+						<option value="0">Ru</option>
+						<option value="0">Ru</option>
+						<option value="1">En</option>
+					</select>
+				</div>
+				<div class="reg">
+					<a href="#reg" class="to-popup"> Регистрация</a>
+				</div>
+				<div class="login">
+					<a href="#log" class="to-popup">Вход</a>
+				</div>
+			</div>
+		</section>
+<div>
+    <section class="tos">
+        <div class="wrapper">
+            <h1>Условия использования</h1>
+            <div class="container">
+                <div class="text">
+                <h1>Принятие условий использования</h1>
+            Заходя на этот веб-сайт, вы соглашаетесь с Условиями использования этого сайта, всеми применимыми законами и постановлениями и соглашаетесь с тем, что вы несете ответственность за соблюдение любых применимых местных законов.
+            Если вы не согласны с каким-либо из этих условий, вам запрещается использовать или получать доступ к контенту этого сайта.
+            Материалы, содержащиеся на этом сайте, защищены действующим законодательством об авторских правах и товарных знаках.
+
+            <br><br>
+            <h1>Условия использования</h1>
+            Разрешается временно загрузить копию материалов (информации или программного обеспечения) с этого веб-сайта только для личного некоммерческого временного просмотра. Это предоставление лицензии, а не передача права собственности, и в соответствии с этой лицензией вы не можете:
+            <ol>
+            <li>Запрещается декомпилировать, взламывать, патчить, отлаживать или использовать другие методы обратного инжиниринга наших продуктов.</li>
+            <li>Запрещается использовать материалы сайта/продукта в коммерческих целях.</li>
+            <li>Запрещается использовать наши продукты, если Вы (непосредственно или косвенно) связаны с разработкой античитов.</li>
+            <li>Запрещается передавать или перепродавать платные материалы данного сайта третьим лицам или на любой другой веб-сервер. </li>
+            <li>Запрещено каким-либо образом вести подрывную деятельность против нашей продукции.</li>
+            <li>Все сведения о вашем профиле должны быть достоверными и точными.</li>
+            <li>Вы можете использовать только принадлежащие Вам средства оплаты.</li>
+            <li>Администрация не несет ответственности за внутриигровые блокировки. Продукты используются на Ваш страх и риск.</li>
+            <li>Вредоносная деятельность не допускается, включая, но не ограничиваясь, такими деяниями как мошенничество, обман, DDoS-атаки, раскрытие личной или частной информации. Если вы вовлечены в это в какой-либо форме, администрация может принять решение приостановить действие вашей учетной записи.</li>
+            </ol>
+            
+            Каждая копия материалов является частной для пользователя, который ее приобрел. В случае, если мы найдем заимствованную/украденную копию, мы аннулируем её для будущих обновлений.<br>
+            Эта лицензия автоматически прекращает свое действие, если вы нарушаете любое из этих ограничений, и может быть прекращена оператором этого веб-сайта в любое время. После прекращения просмотра этих материалов или прекращения действия этой лицензии вы должны уничтожить все загруженные материалы, находящиеся в вашем распоряжении, в электронном или печатном формате.
+            Администрация имеет право приостановить действие всех ваших существующих и будущих учетных записей на данном веб-сайте в случае нарушения данных правил или в других случаях по своему усмотрению.
+            <br><br>
+            <h1>Контент</h1>
+            Поставщики («мы», «нам», «нашему») услуг, предоставляемых этим веб-сайтом ("Сервис"), не несут ответственности за какой-либо пользовательский контент и учетные записи. Представленный контент выражает точку зрения только его автора.<br>
+            Весь контент, который вы отправляете, загружаете или иным образом делаете доступным для Сервиса ("Контент"), может быть просмотрен администрацией. Весь Контент, который вы отправляете или загружаете, может быть отправлен в сторонние службы проверки (включая, помимо прочего, службы предотвращения спама). Не отправляйте Контент, который вы считаете частным или конфиденциальным.<br>
+            Вы соглашаетесь не использовать Сервис для отправки или ссылки на какой-либо Контент, который является дискредитирующим, оскорбительным, ненавистным, угрожающим, спамом или спамоподобным, содержащий материалы для взрослых, нежелательный контент или личную информацию других лиц, рискует нарушением авторских прав, поощряет незаконную деятельность или иным образом нарушает какие-либо законы. Вы несете полную ответственность за содержание и любой ущерб, причиненный этим Контентом или своим поведением.<br>
+            Мы можем удалить или изменить любой Контент, представленный в любое время, с указанием причины или без, с уведомлением или без него. Запросы на удаление или изменение Контента будут выполняться только по нашему усмотрению. Мы можем прекратить ваш доступ ко всей или какой-либо части Сервиса в любое время, с указанием причины или без, с уведомлением или без него.<br>
+            Вы предоставляете нам неисключительную, постоянную, безотзывную, неограниченную лицензию на использование, публикацию или повторную публикацию вашего Контента в связи с Сервисом. Вы сохраняете авторские права на Контент.
+            <br><br>
+
+            <h1>Отказ от ответственности</h1>
+            Информация, размещенная на этом веб-сайте представлена по принципу "как есть", т.е. без каких-либо гарантий.
+            Neverlose не дает никаких гарантий, явных или подразумеваемых, и настоящим отказывается от всех других гарантий, включая, помимо прочего, подразумеваемые гарантии или условия товарной пригодности, пригодности для определенной цели или ненарушения прав интеллектуальной собственности или других нарушений прав. Кроме того, Neverlose не гарантирует и не делает никаких заявлений относительно точности, вероятных результатов или надежности использования материалов на своем веб-сайте в Интернете или иным образом относящихся к таким материалам или на любых сайтах, связанных с этим сайтом.
+            <br><br>
+
+            <h1>Ограничения</h1>
+            Ни при каких обстоятельствах персонал сайта не несут ответственности за любые убытки (включая, помимо прочего, убытки из-за потери данных или из-за прерывания бизнеса), возникшие в результате использования или невозможности использования материалов на этом сайте, даже если администрация или уполномоченный представитель сайта были уведомлены в устной или письменной форме о возможности такого ущерба.  Поскольку в некоторых юрисдикциях не допускаются ограничения подразумеваемых гарантий или ограничения ответственности за косвенный или случайный ущерб, эти ограничения могут не применяться к вам.
+            <br><br>
+
+            <h1>Исправления</h1>
+            Материалы, представленные на веб-сайте Neverlose, могут содержать технические, типографские или фотографические ошибки. Neverlose не гарантирует, что какие-либо материалы на его веб-сайте являются точными, полными или актуальными. Neverlose может вносить изменения в материалы, содержащиеся на его веб-сайте, в любое время без предварительного уведомления. Однако Neverlose не берет на себя никаких обязательств по обновлению материалов.
+            <br><br>
+
+            <h1>Ссылки</h1>
+            Neverlose не проверял все сайты, связанные с его веб-сайтом в Интернете, и не несет ответственности за содержание любых таких сайтов. Включение любой ссылки не означает одобрения Neverlose. Пользователь использует любой такой связанный веб-сайт на свой страх и риск.
+            <br><br>
+
+            <h1>Изменения условий использования сайта</h1>
+            Neverlose может изменить эти условия использования в любое время без предварительного уведомления. Используя этот веб-сайт, вы соглашаетесь соблюдать текущую версию настоящих Условий использования.
+            <br><br>
+
+            <span class="updated">Обновлено 03.12.2021.</span>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+        
+        <footer>
+			<div class="container">
+				<div class="logo">
+					<div class="img">
+						<a href="index.htm"><img src="static/assets/img/logo.png?81351b9614212619b30585a60cb04838" alt="logo"></a>
+					</div>
+				</div>
+				<div class="footer_links">
+					<div class="useful_links">
+						<!--a href="/forum">Форум</a-->
+						<a href="help.html">Справка</a>
+						<a href="tos.html">Условия использования</a>
+						<a href="legal.html">Оферта</a>
+						<a href="privacy.html">Политика конфиденциальности</a>
+                        <a href="contact.html">Контакты</a>
+						<a href="developers.html">Для разработчиков</a>
+					</div>
+					<div class="separator"></div>
+					<div class="product_links">
+						<a href="product.html?type=csgo">CS:GO</a>
+					</div>
+					<!--img src="/static/assets/img/mps_logo.png" style="width:250px"-->
+					<!--div class="soc">
+						<p>Присоединяйтесь!</p>
+<div class="items">
+    <div class="item"><a target="_blank" href=""><i class="fab fa-discord"></i></a></div>
+    <div class="item"><a target="_blank" href="https://t.me/neverlose_chat"><i class="fab fa-telegram-plane"></i></a></div>
+    <div class="item"><a target="_blank" href="https://vk.com/neverlose"><i class="fab fa-vk"></i></a></div>
+</div>					</div-->
+				</div>
+
+					<img src="static/assets/img/paykeeper.png" style="width:250px">
+				<div class="copy">
+					neverlose.cc © 2020-2021
+				</div>
+			</div>
+		</footer>
+	</div>
+
+</body>
+
+<script type="text/javascript" src="static/assets/js/app.js?v=55"></script>
+<script src='recaptcha/api.js?onload=captchaCallBack&render=explicit'></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+	(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+	m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+	(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+ 
+	ym(64402294, "init", {
+		 clickmap:true,
+		 trackLinks:true,
+		 accurateTrackBounce:true
+	});
+ </script>
+ <noscript><div><img src="watch/64402294/1.gif" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+ <!-- /Yandex.Metrika counter -->
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+ <script async="" src="gtag/js.js?id=UA-115062869-2">
+ </script>
+ <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+ 
+   gtag('config', 'UA-115062869-3');
+ </script>
+</html>
